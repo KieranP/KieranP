@@ -1,16 +1,15 @@
-### Hi there 👋
+My name is Kieran Pilkington. I'm a Full Stack Engineer based in New Zealand. I currently work as the Chief Technical Officer at [Xpand](https://xpand.io), a US based startup that creates software in the HR sphere.
 
-<!--
-**KieranP/KieranP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech Stack
 
-Here are some ideas to get you started:
+**Current Usage**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,css,crystal,cloudflare,figma,git,github,html,jenkins,js,linux,mongodb,nginx,nodejs,rails,ruby,sass,svelte,terraform,ts,vite,vitest" />
+
+**Past Usage**
+
+<img src="https://skillicons.dev/icons?i=ansible,cs,cpp,dart,docker,gcp,gitlab,go,graphql,java,jquery,kotlin,lua,mysql,nim,perl,php,postgres,py,scala,swift,v" />
+
+**Testing/Trial Usage**
+
+<img src="https://skillicons.dev/icons?i=angular,bun,deno,flutter,kubernetes,react,rust,vue,webpack" />
