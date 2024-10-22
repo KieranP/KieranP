@@ -4,12 +4,12 @@ My name is Kieran Pilkington. I'm a Full Stack Engineer based in New Zealand. I 
 
 **Current Usage**
 
-<img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,css,crystal,cloudflare,figma,git,github,html,jenkins,js,linux,mongodb,nginx,nodejs,rails,ruby,sass,svelte,terraform,ts,vite,vitest" />
+<img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,css,crystal,cloudflare,figma,git,github,html,jenkins,js,linux,mongodb,nginx,nodejs,php,rails,ruby,sass,svelte,terraform,ts,vite,vitest" />
 
 **Past Usage**
 
-<img src="https://skillicons.dev/icons?i=ansible,cs,cpp,dart,docker,gcp,gitlab,go,graphql,java,jquery,kotlin,lua,mysql,nim,perl,php,postgres,py,scala,swift,v" />
+<img src="https://skillicons.dev/icons?i=ansible,cs,cpp,dart,docker,gcp,gitlab,go,graphql,java,jquery,kotlin,lua,mysql,nim,perl,postgres,py,react,scala,swift,v,webpack" />
 
 **Testing/Trial Usage**
 
-<img src="https://skillicons.dev/icons?i=angular,bun,deno,flutter,kubernetes,react,rust,vue,webpack" />
+<img src="https://skillicons.dev/icons?i=angular,bun,deno,flutter,kubernetes,rust,vue" />
